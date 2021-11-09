@@ -3,7 +3,7 @@
     "name": "No Magoo",
     "description": "Hides comments from \"MisterMagooForYou\" on universalhub.com",
     "author": "Adam Balsam",
-    "version": "1.0",
+    "version": "1.1",
     "content_scripts": [
         {
             "matches": ["https://*.universalhub.com/*"],
