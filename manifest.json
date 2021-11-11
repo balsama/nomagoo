@@ -17,5 +17,12 @@
         "128": "icon128.png",
         "256": "icon256.png",
         "512": "icon512.png"
+    },
+    "permissions": [
+        "storage"
+    ],
+    "options_ui": {
+        "page": "usernames.html",
+        "open_in_tab": false
     }
 }
